@@ -158,7 +158,7 @@ All questions were answered correctly in both runs, although the higher‑temper
 
 ## License
 
-This project is for educational purposes as part of FTEC5660. The code is provided under the MIT License (see [LICENSE](LICENSE) file if present).
+This project is for educational purposes as part of FTEC5660. The code is provided under the MIT License (see [LICENSE]((https://opensource.org/license/mit)) file if present).
 
 ---
 
