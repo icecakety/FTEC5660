@@ -15,7 +15,7 @@ The implementation avoids deprecated `langchain.chains` and uses a **manual RAG 
 - FAISS vector store
 - Gemini 2.5 Flash (via Vertex AI) as the LLM
 
-All code is provided in the Jupyter notebook [`notebook_reporduce.ipynb`](./notebook_reporduce.ipynb).
+All code is provided in the Jupyter notebook [`notebook_reporduce.ipynb`]((https://colab.research.google.com/drive/1IYUfQf6CEgYAgIGjSti-o3XZYRwpVcCV?usp=sharing)).
 
 ---
 
