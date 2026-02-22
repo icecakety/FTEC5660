@@ -31,7 +31,7 @@ All code is provided in the Jupyter notebook [`notebook_reporduce.ipynb`](./note
 
 ### Environment
 - **Platform:** Google Colab (Python 3.10, optional T4 GPU)
-- **Dependencies:** See [`notebook_reporduce.ipynb`](./notebook_reporduce.ipynb) (install cell). Key packages:
+- **Dependencies:** See [`notebook_reporduce.ipynb`](https://colab.research.google.com/drive/1IYUfQf6CEgYAgIGjSti-o3XZYRwpVcCV?usp=sharing) (install cell). Key packages:
   - `langchain-google-vertexai`
   - `langchain-community`
   - `faiss-cpu`
